@@ -41,3 +41,5 @@ no PaaS, no managed anything.
 ### Elsewhere
 
 Based in Sevilla. Italian native, Spanish and English at professional working proficiency.
+
+[fenrir.it](https://fenrir.it) · [LinkedIn](https://www.linkedin.com/in/bartolomeopasquale/)
